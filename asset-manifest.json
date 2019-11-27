@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/b2c-claims/static/css/main.7b429fbb.chunk.css",
+    "main.js": "/b2c-claims/static/js/main.c7540c0e.chunk.js",
+    "main.js.map": "/b2c-claims/static/js/main.c7540c0e.chunk.js.map",
+    "runtime-main.js": "/b2c-claims/static/js/runtime-main.eb7b7607.js",
+    "runtime-main.js.map": "/b2c-claims/static/js/runtime-main.eb7b7607.js.map",
+    "static/js/2.18be540f.chunk.js": "/b2c-claims/static/js/2.18be540f.chunk.js",
+    "static/js/2.18be540f.chunk.js.map": "/b2c-claims/static/js/2.18be540f.chunk.js.map",
+    "index.html": "/b2c-claims/index.html",
+    "precache-manifest.9a80cc592130de30090fff82b5dec4ce.js": "/b2c-claims/precache-manifest.9a80cc592130de30090fff82b5dec4ce.js",
+    "service-worker.js": "/b2c-claims/service-worker.js",
+    "static/css/main.7b429fbb.chunk.css.map": "/b2c-claims/static/css/main.7b429fbb.chunk.css.map",
+    "static/media/claimformexample.png": "/b2c-claims/static/media/claimformexample.bd827ad2.png",
+    "static/media/logo-bayzat-symbol--white.svg": "/b2c-claims/static/media/logo-bayzat-symbol--white.21f97fdb.svg",
+    "static/media/pdfpreview.png": "/b2c-claims/static/media/pdfpreview.3d4dc0ad.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb7b7607.js",
+    "static/js/2.18be540f.chunk.js",
+    "static/css/main.7b429fbb.chunk.css",
+    "static/js/main.c7540c0e.chunk.js"
+  ]
+}
