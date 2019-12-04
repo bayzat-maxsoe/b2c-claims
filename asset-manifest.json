@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/b2c-claims/static/css/main.7b429fbb.chunk.css",
-    "main.js": "/b2c-claims/static/js/main.c7540c0e.chunk.js",
-    "main.js.map": "/b2c-claims/static/js/main.c7540c0e.chunk.js.map",
+    "main.js": "/b2c-claims/static/js/main.0bba23ee.chunk.js",
+    "main.js.map": "/b2c-claims/static/js/main.0bba23ee.chunk.js.map",
     "runtime-main.js": "/b2c-claims/static/js/runtime-main.eb7b7607.js",
     "runtime-main.js.map": "/b2c-claims/static/js/runtime-main.eb7b7607.js.map",
-    "static/js/2.18be540f.chunk.js": "/b2c-claims/static/js/2.18be540f.chunk.js",
-    "static/js/2.18be540f.chunk.js.map": "/b2c-claims/static/js/2.18be540f.chunk.js.map",
+    "static/js/2.2a0cdc3a.chunk.js": "/b2c-claims/static/js/2.2a0cdc3a.chunk.js",
+    "static/js/2.2a0cdc3a.chunk.js.map": "/b2c-claims/static/js/2.2a0cdc3a.chunk.js.map",
     "index.html": "/b2c-claims/index.html",
-    "precache-manifest.9a80cc592130de30090fff82b5dec4ce.js": "/b2c-claims/precache-manifest.9a80cc592130de30090fff82b5dec4ce.js",
+    "precache-manifest.88751a07ea7253a47dcda855efcfdefb.js": "/b2c-claims/precache-manifest.88751a07ea7253a47dcda855efcfdefb.js",
     "service-worker.js": "/b2c-claims/service-worker.js",
     "static/css/main.7b429fbb.chunk.css.map": "/b2c-claims/static/css/main.7b429fbb.chunk.css.map",
     "static/media/claimformexample.png": "/b2c-claims/static/media/claimformexample.bd827ad2.png",
@@ -17,8 +17,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.eb7b7607.js",
-    "static/js/2.18be540f.chunk.js",
+    "static/js/2.2a0cdc3a.chunk.js",
     "static/css/main.7b429fbb.chunk.css",
-    "static/js/main.c7540c0e.chunk.js"
+    "static/js/main.0bba23ee.chunk.js"
   ]
 }
